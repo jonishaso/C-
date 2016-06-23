@@ -1,0 +1,8 @@
+{
+	"sqlConnString":"Data Source=./GG;Database=GG;User ID=sa;password=wwsi123",
+	// "Data Source=LENOVO-PC/SQLEXPRESS;Initial Catalog=Clients;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+    //(goldcoast db) "Data Source=AP00372RD1/SMGCALERT;Initial Catalog=Clients;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+	"radioServerIPString":"192.168.1.10:8888",//Gold Coast Server IP 10.108.96.44
+	"contralStationID":17475776,//Gold Coast: 18874592 WWSI: 17475776 
+	"GSMPort":"COM7",//WWSI: "COM4", Gold Coast: "COM1", com6 at gc com5
+}
