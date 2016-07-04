@@ -1,0 +1,11 @@
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\bin\Release\MessageClientSide.exe.config
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\bin\Release\MessageClientSide.exe
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\bin\Release\MessageClientSide.pdb
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\bin\Release\Newtonsoft.Json.dll
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\bin\Release\Newtonsoft.Json.xml
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\obj\Release\MessageClientSide.mainForm.resources
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\obj\Release\MessageClientSide.Properties.Resources.resources
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\obj\Release\MessageClientSide.csproj.GenerateResource.Cache
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\obj\Release\MessageClientSide.exe
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\obj\Release\MessageClientSide.pdb
+C:\Users\manlyptops.com\Desktop\versions\modifed\C_sharp\MessageClientSide\MessageClientSide\obj\Release\MessageClientSide.csprojResolveAssemblyReference.cache
